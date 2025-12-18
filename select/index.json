@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "From Me to Haru",
+  "base_artist": "BOY MEETS HARU",
+  "createdAt": "2025-12-18T10:08:30.902204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From Me to You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_From_Me_to_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Heat Rash In The Shape Of The Show Me State; Or, Letters From Me To Charlotte",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/02_A_Heat_Rash_In_The_Shape_Of_The_Show_Me_State;_Or,_Letters_From_Me_To_Charlotte_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From Me To You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_From_Me_To_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rugs From Me To You",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/04_Rugs_From_Me_To_You_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From Me to You - Live On Saturday Club Show, June 29, 1963",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/05_From_Me_to_You_-_Live_On_Saturday_Club_Show,_June_29,_1963_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Far From Me to You",
+      "artist": "Big Country",
+      "has_synced": false,
+      "path": "select/06_Far_From_Me_to_You_Big_Country.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From Me To You",
+      "artist": "Hiroshi Sato",
+      "has_synced": true,
+      "path": "select/07_From_Me_To_You_Hiroshi_Sato.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From Me to You (Mono Version)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_From_Me_to_You_(Mono_Version)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From Me to You (mono)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_From_Me_to_You_(mono)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From Me to You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_From_Me_to_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From Me to You",
+      "artist": "Del Shannon",
+      "has_synced": true,
+      "path": "select/11_From_Me_to_You_Del_Shannon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Me To You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_From_Me_To_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From Me To You (New Stereo Mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_From_Me_To_You_(New_Stereo_Mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From Me to Haru",
+      "artist": "BOY MEETS HARU",
+      "has_synced": false,
+      "path": "select/pl_01_From_Me_to_Haru_BOY_MEETS_HARU.txt"
+    }
+  ]
+}
